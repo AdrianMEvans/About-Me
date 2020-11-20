@@ -22,35 +22,35 @@ The website HTML was also validated using validator.w3.org.
 ### 400 Screen size
 
 Contact
-![Contact Page 400px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Contact-400.jpg?raw=true)
+![Contact Page 400px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Contact-400.png?raw=true)
 
 Portfolio
-![Portfolio Page 400px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Portfolio-400.jpg?raw=true)
+![Portfolio Page 400px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Portfolio-400.png?raw=true)
 
 About
-![About Page 400px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/About-400.jpg?raw=true)
+![About Page 400px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/About-400.png?raw=true)
 
 ### 768 Screen size
 
 Contact
-![Contact Page 768px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Contact-768.jpg?raw=true)
+![Contact Page 768px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Contact-768.png?raw=true)
 
 Portfolio
-![Portfolio Page 768px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Portfolio-768.jpg?raw=true)
+![Portfolio Page 768px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Portfolio-768.png?raw=true)
 
 About
-![About Page 768px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/About-768.jpg?raw=true)
+![About Page 768px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/About-768.png?raw=true)
 
 ### 992 or bigger Screen size
 
 Contact
-![Contact Page 992px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Contact-992.jpg?raw=true)
+![Contact Page 992px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Contact-992.png?raw=true)
 
 Portfolio
-![Portfolio Page 992px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Portfolio-992.jpg?raw=true)
+![Portfolio Page 992px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Portfolio-992.png?raw=true)
 
 About
-![About Page 992px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/About-992.jpg?raw=true)
+![About Page 992px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/About-992.png?raw=true)
 
 ## Conclusion
 Please have a look at **[My Portfolio Website](https://adrianmevans.github.io/Adrian-Evans/)** and let me know if there are any questions. I welcome constructive critisism and if you have any suggestions please contact me via the details below.
