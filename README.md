@@ -21,35 +21,35 @@ The website HTML was also validated using validator.w3.org.
 
 ### 400 Screen size
 
-Contact
+Contact <br>
 ![Contact Page 400px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Contact-400.png?raw=true)
 
-Portfolio
+Portfolio <br>
 ![Portfolio Page 400px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Portfolio-400.png?raw=true)
 
-About
+About <br>
 ![About Page 400px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/About-400.png?raw=true)
 
 ### 768 Screen size
 
-Contact
+Contact <br>
 ![Contact Page 768px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Contact-768.png?raw=true)
 
-Portfolio
+Portfolio <br>
 ![Portfolio Page 768px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Portfolio-768.png?raw=true)
 
-About
+About <br>
 ![About Page 768px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/About-768.png?raw=true)
 
 ### 992 or bigger Screen size
-
-Contact
+ 
+Contact <br>
 ![Contact Page 992px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Contact-992.png?raw=true)
 
-Portfolio
+Portfolio <br>
 ![Portfolio Page 992px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/Portfolio-992.png?raw=true)
 
-About
+About <br>
 ![About Page 992px wide](https://github.com/AdrianMEvans/Adrian-Evans/blob/main/assets/images/About-992.png?raw=true)
 
 ## Conclusion
